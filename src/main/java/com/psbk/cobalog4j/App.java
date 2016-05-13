@@ -25,5 +25,7 @@ public class App
         
         logger.error("Ini adalah error message");
         System.out.println("Error message telah dijalankan");
+        
+        System.out.println("Untuk cara menampilkannya saya menyerah kang untuk kali ini...");
     }
 }
